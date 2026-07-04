@@ -1,0 +1,24 @@
+# ── 대용량 · 민감 데이터 (공개 저장소에 올리지 않음) ──
+# 실제 불법 게시글 원문 / 판매자 텔레그램 아이디 / 크롤링 원본
+통합_불법광고_전처리_*.csv
+data/raw/
+data/*.csv
+!data/keyword_dictionary.csv
+!data/site_list.csv
+!data/sample.csv
+*.parquet
+
+# ── 파이썬 ──
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
+.venv/
+env/
+.env
+
+# ── OS / 에디터 ──
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
