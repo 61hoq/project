@@ -52,6 +52,11 @@
 | 마약 종류별 지역 분포 | 마약 키워드가 어떤 지역명과 함께 등장하는지 지도·표로 분석 |
 | 텔레그램 아이디 네트워크 생키 다이어그램 | 제목에서 텔레그램 ID를 추출해 `범죄–아이디–사이트` 관계 분석 |
 
+![워드클라우드_지역](images/wordcloud_region.png)
+![워드클라우드_마약](images/wordcloud_drug.png)
+![마약 지역 분포](images/drug_map.png)
+![텔레그램 네트워크 생키](images/sankey.png)
+
 
 ### 주요 컬럼
 
