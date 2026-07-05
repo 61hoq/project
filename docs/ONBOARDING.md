@@ -64,7 +64,6 @@
 | 코드(전처리·분류·시각화) | GitHub 저장소 `notebooks/preprocess_and_analysis.ipynb` |
 | 상세 코드 설명서 | `docs/methodology.md` |
 | 시각화 이미지 | `images/` |
-| 키워드 사전 / 사이트 목록 | `data/` |
 | 추가 크롤링 대상 목록 | 위 5-1 스프레드시트 링크 |
 | 전처리 완료 원본 데이터(239MB) | **저장소 미포함** — 팀 내부 드라이브에서 별도 공유 |
 
